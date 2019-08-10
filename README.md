@@ -19,8 +19,9 @@ Usage
 -----
 
 Just download and run exploit.ps1
-By default, the exploit will download and run powercat (https://github.com/besimorhino/powercat) in listening mode (port 6666). 
-You can also specify your own payload to download and run
+
+By default, the exploit will download and run powercat (https://github.com/besimorhino/powercat) in listening mode (port 6666) under the NT AUTHORITY \ SYSTEM account. 
+You can also specify your own payload to download and execute.
 
 Optional arguments
 ------------------
