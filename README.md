@@ -18,4 +18,26 @@ Please be aware that this script updates (or at least try to) your registry, ins
 Usage
 -----
 
-just download and run exploit.ps1
+Just download and run exploit.ps1
+By default, the exploit will download and run powercat (https://github.com/besimorhino/powercat) in listening mode (port 6666). 
+You can also specify your own payload to download and run
+
+Optional arguments
+------------------
+
+* PayloadUrl : the url of the payload to be executed
+* PayloadExec : payload call + options
+* Restore : remove registry modification
+
+Internals
+---------
+
+Please refer to https://m.habr.com/ru/company/pm/blog/462479/
+
+
+
+
+
+
+
+
