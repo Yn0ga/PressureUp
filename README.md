@@ -38,7 +38,10 @@ Demo
 Internals
 ---------
 
-Please refer to https://m.habr.com/ru/company/pm/blog/462479/
+Please refer to : 
+* https://m.habr.com/ru/company/pm/blog/462479/ (ru)
+* https://amonitoring.ru/article/steamclient-Oday/ (en)
+
 
 
 
