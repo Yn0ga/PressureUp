@@ -30,6 +30,11 @@ Optional arguments
 * PayloadExec : payload call + options
 * Restore : remove registry modification
 
+Demo 
+-----
+
+![](terminalizer.gif)
+
 Internals
 ---------
 
