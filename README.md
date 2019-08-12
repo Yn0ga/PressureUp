@@ -4,7 +4,7 @@ This is a simple powershell POC for the Steam LPE issue reported by @PsiDragon
 
 Requirements
 ------------
-* Steam client (win32)
+* Steam client (win32) with at least 1 game installed (otherwise, some registry keys will be missing)
 
 Tested on windows 10 1903.
 
